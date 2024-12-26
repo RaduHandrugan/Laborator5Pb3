@@ -1,0 +1,36 @@
+[
+  {
+    "nume": "Birou",
+    "placi": [
+      {
+        "descriere": "Blat",
+        "lungime": 1200,
+        "latime": 600,
+        "orientare": "LUNGIME",
+        "canturi": [true, true, false, false],
+        "nrBucati": 1
+      },
+      {
+        "descriere": "Picior stânga",
+        "lungime": 600,
+        "latime": 400,
+        "orientare": "LATIME",
+        "canturi": [true, false, false, false],
+        "nrBucati": 1
+      }
+    ]
+  },
+  {
+    "nume": "Dulap",
+    "placi": [
+      {
+        "descriere": "Ușă",
+        "lungime": 2000,
+        "latime": 500,
+        "orientare": "LUNGIME",
+        "canturi": [true, true, true, true],
+        "nrBucati": 2
+      }
+    ]
+  }
+]
